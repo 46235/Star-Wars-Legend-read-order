@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+}
+body {
+	color: white;
+	background-color: #000;
+	font-family:arial, verdana, helvetica;
+	font-size: 25px;
+}
+td.center {
+    text-align: center;
+}
+table {
+    font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+    font-size: 70%;
+    width: 90%;
+}
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+}
